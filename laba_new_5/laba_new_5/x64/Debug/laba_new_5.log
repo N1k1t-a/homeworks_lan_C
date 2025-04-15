@@ -1,0 +1,5 @@
+﻿  Laba_5.c
+C:\Users\aboob\source\repos\laba_new_5\laba_new_5\Laba_5.c(50,5): warning C4047: return: "char *" отличается по уровням косвенного обращения от "char *[128]"
+C:\Users\aboob\source\repos\laba_new_5\laba_new_5\Laba_5.c(55,10): warning C4101: znac: неиспользованная локальная переменная
+C:\Users\aboob\source\repos\laba_new_5\laba_new_5\Laba_5.c(50,1): warning C4172: возвращаемый адрес локальной переменной или временного : new_str
+  laba_new_5.vcxproj -> C:\Users\aboob\source\repos\laba_new_5\x64\Debug\laba_new_5.exe

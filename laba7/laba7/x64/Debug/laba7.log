@@ -1,0 +1,5 @@
+﻿  main.c
+C:\Users\aboob\source\repos\laba7\laba7\main.c(7,15): warning C4047: функция: "int" отличается по уровням косвенного обращения от "char [1]"
+C:\Users\aboob\source\repos\laba7\laba7\main.c(7,15): warning C4024: setlocale: различные типы для формального и фактического параметров 1
+C:\Users\aboob\source\repos\laba7\laba7\main.c(7,5): error C2198: char *setlocale(int,const char *): слишком мало аргументов для вызова
+C:\Users\aboob\source\repos\laba7\laba7\main.c(8,5): error C2143: синтаксическая ошибка: отсутствие ";" перед "тип"

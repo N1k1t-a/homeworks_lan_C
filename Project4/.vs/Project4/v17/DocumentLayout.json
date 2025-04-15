@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aboob\\source\\repos\\Project4\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{46285429-5DAC-4019-89C5-0EBB611BE2CA}|Project4\\Project4.vcxproj|C:\\Users\\aboob\\source\\repos\\Project4\\Project4\\laba4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{46285429-5DAC-4019-89C5-0EBB611BE2CA}|Project4\\Project4.vcxproj|solutionrelative:Project4\\laba4.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "laba4.c",
+              "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\Project4\\Project4\\laba4.c",
+              "RelativeDocumentMoniker": "Project4\\laba4.c",
+              "ToolTip": "C:\\Users\\aboob\\source\\repos\\Project4\\Project4\\laba4.c",
+              "RelativeToolTip": "Project4\\laba4.c",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2024-10-28T12:19:48.614Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

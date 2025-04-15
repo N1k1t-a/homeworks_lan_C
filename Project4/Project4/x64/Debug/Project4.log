@@ -1,0 +1,9 @@
+﻿  laba4.c
+C:\Users\aboob\source\repos\Project4\Project4\laba4.c(56,23): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\aboob\source\repos\Project4\Project4\laba4.c(56,29): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\aboob\source\repos\Project4\Project4\laba4.c(56,35): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\aboob\source\repos\Project4\Project4\laba4.c(57,29): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\aboob\source\repos\Project4\Project4\laba4.c(57,34): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\aboob\source\repos\Project4\Project4\laba4.c(57,39): warning C4305: инициализация: усечение из "double" в "float"
+C:\Users\aboob\source\repos\Project4\Project4\laba4.c(57,45): warning C4305: инициализация: усечение из "double" в "float"
+  Project4.vcxproj -> C:\Users\aboob\source\repos\Project4\x64\Debug\Project4.exe

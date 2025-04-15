@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aboob\\source\\repos\\Project2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DE57678F-2981-4A83-9B0D-22AEA1E85950}|Project2\\Project2.vcxproj|C:\\Users\\aboob\\source\\repos\\Project2\\Project2\\FileName.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{DE57678F-2981-4A83-9B0D-22AEA1E85950}|Project2\\Project2.vcxproj|solutionrelative:Project2\\FileName.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "FileName.c",
+              "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\Project2\\Project2\\FileName.c",
+              "RelativeDocumentMoniker": "Project2\\FileName.c",
+              "ToolTip": "C:\\Users\\aboob\\source\\repos\\Project2\\Project2\\FileName.c",
+              "RelativeToolTip": "Project2\\FileName.c",
+              "ViewState": "AgIAAIIAAAAAAAAAAADwv4YAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-11T08:27:33.245Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
