@@ -8,8 +8,8 @@ int main() {
     readFileToList("file1.txt", list1); 
     readFileToList("file2.txt", list2); 
 
-    List mergedList = list1;  
-    mergeLists(list1, list2, mergedList);  
+    List mergedList;
+    mergeLists(list1, list2, mergedList);
 
     sortList(mergedList);  
 

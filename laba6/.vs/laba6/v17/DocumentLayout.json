@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\aboob\\source\\repos\\laba6\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AEAF4705-7593-48F2-96B1-8773E8C7995A}|laba6\\laba6.vcxproj|C:\\Users\\aboob\\source\\repos\\laba6\\laba6\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AEAF4705-7593-48F2-96B1-8773E8C7995A}|laba6\\laba6.vcxproj|solutionrelative:laba6\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AEAF4705-7593-48F2-96B1-8773E8C7995A}|laba6\\laba6.vcxproj|C:\\Users\\aboob\\source\\repos\\laba6\\laba6\\word_list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AEAF4705-7593-48F2-96B1-8773E8C7995A}|laba6\\laba6.vcxproj|solutionrelative:laba6\\word_list.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AEAF4705-7593-48F2-96B1-8773E8C7995A}|laba6\\laba6.vcxproj|C:\\Users\\aboob\\source\\repos\\laba6\\laba6\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AEAF4705-7593-48F2-96B1-8773E8C7995A}|laba6\\laba6.vcxproj|solutionrelative:laba6\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AEAF4705-7593-48F2-96B1-8773E8C7995A}|laba6\\laba6.vcxproj|C:\\Users\\aboob\\source\\repos\\laba6\\laba6\\word_list.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -22,17 +22,17 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\laba6\\laba6\\main.cpp",
               "RelativeDocumentMoniker": "laba6\\main.cpp",
               "ToolTip": "C:\\Users\\aboob\\source\\repos\\laba6\\laba6\\main.cpp",
               "RelativeToolTip": "laba6\\main.cpp",
-              "ViewState": "AgIAADEAAAAAAAAAAAAAAAoAAAAeAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-21T14:16:05.875Z",
               "EditorCaption": ""
@@ -45,19 +45,20 @@
               "RelativeDocumentMoniker": "laba6\\word_list.h",
               "ToolTip": "C:\\Users\\aboob\\source\\repos\\laba6\\laba6\\word_list.h",
               "RelativeToolTip": "laba6\\word_list.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwB0AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-21T14:16:37.682Z"
+              "WhenOpened": "2025-04-21T14:16:37.682Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "word_list.cpp",
               "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\laba6\\laba6\\word_list.cpp",
               "RelativeDocumentMoniker": "laba6\\word_list.cpp",
               "ToolTip": "C:\\Users\\aboob\\source\\repos\\laba6\\laba6\\word_list.cpp",
               "RelativeToolTip": "laba6\\word_list.cpp",
-              "ViewState": "AgIAAGsAAAAAAAAAAAAAAFEAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAFYAAAAAAAAAAAAkwGAAAAAYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-21T14:16:26.128Z",
               "EditorCaption": ""
