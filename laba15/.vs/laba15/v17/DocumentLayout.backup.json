@@ -34,8 +34,7 @@
               "RelativeToolTip": "laba15\\Farm.h",
               "ViewState": "AgIAAEwAAAAAAAAAAAAAAFsAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-21T18:13:50.289Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T18:13:50.289Z"
             },
             {
               "$type": "Document",
@@ -43,9 +42,9 @@
               "Title": "Farm.cpp",
               "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\laba15\\laba15\\Farm.cpp",
               "RelativeDocumentMoniker": "laba15\\Farm.cpp",
-              "ToolTip": "C:\\Users\\aboob\\source\\repos\\laba15\\laba15\\Farm.cpp*",
-              "RelativeToolTip": "laba15\\Farm.cpp*",
-              "ViewState": "AgIAAHgAAAAAAAAAAAAAAIgAAAA7AAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\aboob\\source\\repos\\laba15\\laba15\\Farm.cpp",
+              "RelativeToolTip": "laba15\\Farm.cpp",
+              "ViewState": "AgIAAG8AAAAAAAAAAAAAAIcAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-21T18:13:36.184Z",
               "EditorCaption": ""
@@ -60,8 +59,7 @@
               "RelativeToolTip": "laba15\\main.cpp",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-21T18:13:22.579Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-21T18:13:22.579Z"
             }
           ]
         }
