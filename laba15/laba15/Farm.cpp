@@ -123,8 +123,18 @@ void Farm::displayFinancials() const {
         << "Расходы на топливо: " << fuelUsed << " * " << fuelPrice << " = "
         << (fuelUsed * fuelPrice) << "\n"
         << "Расходы на корм:   " << feedCost << "\n"
-        << "--------------------------\n"
-        << "Итоговая прибыль:  "
-        << (calculateIncome() - calculateExpenses()) << "\n";
+        << "--------------------------\n";
+
+
+    double finall = calculateIncome() - calculateExpenses();
+
+    if (finall >= 0) {
+        std::cout << "Итоговая прибыль:  " << finall << "\n";
+    }
+
+    else
+    {
+        std::cout << "ушел в минус на: " << finall << "\n";
+    }
 }
 
