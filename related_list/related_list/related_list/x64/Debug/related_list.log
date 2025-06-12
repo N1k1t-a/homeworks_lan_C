@@ -1,0 +1,81 @@
+﻿  list.c
+C:\Users\aboob\source\repos\related_list\related_list\list.h(7,2): error C2061: синтаксическая ошибка: идентификатор "Node"
+  (компиляция исходного файла "list.c")
+  
+C:\Users\aboob\source\repos\related_list\related_list\list.h(8,6): error C2143: синтаксическая ошибка: отсутствие "{" перед "*"
+  (компиляция исходного файла "list.c")
+  
+C:\Users\aboob\source\repos\related_list\related_list\list.h(9,1): error C2059: синтаксическая ошибка: }
+  (компиляция исходного файла "list.c")
+  
+C:\Users\aboob\source\repos\related_list\related_list\list.h(12,2): error C2061: синтаксическая ошибка: идентификатор "Node"
+  (компиляция исходного файла "list.c")
+  
+C:\Users\aboob\source\repos\related_list\related_list\list.h(14,1): error C2059: синтаксическая ошибка: }
+  (компиляция исходного файла "list.c")
+  
+C:\Users\aboob\source\repos\related_list\related_list\list.h(18,17): error C2143: синтаксическая ошибка: отсутствие ")" перед "*"
+  (компиляция исходного файла "list.c")
+  
+C:\Users\aboob\source\repos\related_list\related_list\list.h(18,17): error C2143: синтаксическая ошибка: отсутствие "{" перед "*"
+  (компиляция исходного файла "list.c")
+  
+C:\Users\aboob\source\repos\related_list\related_list\list.h(18,20): error C2059: синтаксическая ошибка: )
+  (компиляция исходного файла "list.c")
+  
+C:\Users\aboob\source\repos\related_list\related_list\list.h(19,20): error C2143: синтаксическая ошибка: отсутствие ")" перед "*"
+  (компиляция исходного файла "list.c")
+  
+C:\Users\aboob\source\repos\related_list\related_list\list.h(19,20): error C2143: синтаксическая ошибка: отсутствие "{" перед "*"
+  (компиляция исходного файла "list.c")
+  
+C:\Users\aboob\source\repos\related_list\related_list\list.h(19,23): error C2059: синтаксическая ошибка: )
+  (компиляция исходного файла "list.c")
+  
+C:\Users\aboob\source\repos\related_list\related_list\list.c(5,17): error C2143: синтаксическая ошибка: отсутствие ")" перед "*"
+C:\Users\aboob\source\repos\related_list\related_list\list.c(5,17): error C2143: синтаксическая ошибка: отсутствие "{" перед "*"
+C:\Users\aboob\source\repos\related_list\related_list\list.c(5,20): error C2059: синтаксическая ошибка: )
+C:\Users\aboob\source\repos\related_list\related_list\list.c(5,19): error C2054: требуется "(" после "l"
+C:\Users\aboob\source\repos\related_list\related_list\list.c(10,20): error C2143: синтаксическая ошибка: отсутствие ")" перед "*"
+C:\Users\aboob\source\repos\related_list\related_list\list.c(10,20): error C2143: синтаксическая ошибка: отсутствие "{" перед "*"
+C:\Users\aboob\source\repos\related_list\related_list\list.c(10,23): error C2059: синтаксическая ошибка: )
+C:\Users\aboob\source\repos\related_list\related_list\list.c(10,22): error C2054: требуется "(" после "l"
+  main.c
+C:\Users\aboob\source\repos\related_list\related_list\list.h(7,2): error C2061: синтаксическая ошибка: идентификатор "Node"
+  (компиляция исходного файла "main.c")
+  
+C:\Users\aboob\source\repos\related_list\related_list\list.h(8,6): error C2143: синтаксическая ошибка: отсутствие "{" перед "*"
+  (компиляция исходного файла "main.c")
+  
+C:\Users\aboob\source\repos\related_list\related_list\list.h(9,1): error C2059: синтаксическая ошибка: }
+  (компиляция исходного файла "main.c")
+  
+C:\Users\aboob\source\repos\related_list\related_list\list.h(12,2): error C2061: синтаксическая ошибка: идентификатор "Node"
+  (компиляция исходного файла "main.c")
+  
+C:\Users\aboob\source\repos\related_list\related_list\list.h(14,1): error C2059: синтаксическая ошибка: }
+  (компиляция исходного файла "main.c")
+  
+C:\Users\aboob\source\repos\related_list\related_list\list.h(18,17): error C2143: синтаксическая ошибка: отсутствие ")" перед "*"
+  (компиляция исходного файла "main.c")
+  
+C:\Users\aboob\source\repos\related_list\related_list\list.h(18,17): error C2143: синтаксическая ошибка: отсутствие "{" перед "*"
+  (компиляция исходного файла "main.c")
+  
+C:\Users\aboob\source\repos\related_list\related_list\list.h(18,20): error C2059: синтаксическая ошибка: )
+  (компиляция исходного файла "main.c")
+  
+C:\Users\aboob\source\repos\related_list\related_list\list.h(19,20): error C2143: синтаксическая ошибка: отсутствие ")" перед "*"
+  (компиляция исходного файла "main.c")
+  
+C:\Users\aboob\source\repos\related_list\related_list\list.h(19,20): error C2143: синтаксическая ошибка: отсутствие "{" перед "*"
+  (компиляция исходного файла "main.c")
+  
+C:\Users\aboob\source\repos\related_list\related_list\list.h(19,23): error C2059: синтаксическая ошибка: )
+  (компиляция исходного файла "main.c")
+  
+C:\Users\aboob\source\repos\related_list\related_list\main.c(8,2): error C2065: list_t: необъявленный идентификатор
+C:\Users\aboob\source\repos\related_list\related_list\main.c(8,9): error C2146: синтаксическая ошибка: отсутствие ";" перед идентификатором "l"
+C:\Users\aboob\source\repos\related_list\related_list\main.c(9,2): warning C4013: init: нет определения; предполагается "extern" с возвратом типа "int"
+C:\Users\aboob\source\repos\related_list\related_list\main.c(11,2): warning C4013: destroy: нет определения; предполагается "extern" с возвратом типа "int"
+  Создание кода...

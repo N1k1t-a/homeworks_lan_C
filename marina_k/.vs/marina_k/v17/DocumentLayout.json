@@ -1,0 +1,151 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aboob\\source\\repos\\marina_k\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC7CAF0-4656-4816-B6D2-DC2BF5343EF7}|marina_k\\marina_k.vcxproj|C:\\Users\\aboob\\source\\repos\\marina_k\\marina_k\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8CC7CAF0-4656-4816-B6D2-DC2BF5343EF7}|marina_k\\marina_k.vcxproj|solutionrelative:marina_k\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC7CAF0-4656-4816-B6D2-DC2BF5343EF7}|marina_k\\marina_k.vcxproj|C:\\Users\\aboob\\source\\repos\\marina_k\\marina_k\\ui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8CC7CAF0-4656-4816-B6D2-DC2BF5343EF7}|marina_k\\marina_k.vcxproj|solutionrelative:marina_k\\ui.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC7CAF0-4656-4816-B6D2-DC2BF5343EF7}|marina_k\\marina_k.vcxproj|C:\\Users\\aboob\\source\\repos\\marina_k\\marina_k\\file_io.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8CC7CAF0-4656-4816-B6D2-DC2BF5343EF7}|marina_k\\marina_k.vcxproj|solutionrelative:marina_k\\file_io.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC7CAF0-4656-4816-B6D2-DC2BF5343EF7}|marina_k\\marina_k.vcxproj|C:\\Users\\aboob\\source\\repos\\marina_k\\marina_k\\record.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8CC7CAF0-4656-4816-B6D2-DC2BF5343EF7}|marina_k\\marina_k.vcxproj|solutionrelative:marina_k\\record.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC7CAF0-4656-4816-B6D2-DC2BF5343EF7}|marina_k\\marina_k.vcxproj|C:\\Users\\aboob\\source\\repos\\marina_k\\marina_k\\file_io.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8CC7CAF0-4656-4816-B6D2-DC2BF5343EF7}|marina_k\\marina_k.vcxproj|solutionrelative:marina_k\\file_io.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC7CAF0-4656-4816-B6D2-DC2BF5343EF7}|marina_k\\marina_k.vcxproj|C:\\Users\\aboob\\source\\repos\\marina_k\\marina_k\\db_ops.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8CC7CAF0-4656-4816-B6D2-DC2BF5343EF7}|marina_k\\marina_k.vcxproj|solutionrelative:marina_k\\db_ops.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC7CAF0-4656-4816-B6D2-DC2BF5343EF7}|marina_k\\marina_k.vcxproj|C:\\Users\\aboob\\source\\repos\\marina_k\\marina_k\\db_ops.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8CC7CAF0-4656-4816-B6D2-DC2BF5343EF7}|marina_k\\marina_k.vcxproj|solutionrelative:marina_k\\db_ops.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8CC7CAF0-4656-4816-B6D2-DC2BF5343EF7}|marina_k\\marina_k.vcxproj|C:\\Users\\aboob\\source\\repos\\marina_k\\marina_k\\ui.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8CC7CAF0-4656-4816-B6D2-DC2BF5343EF7}|marina_k\\marina_k.vcxproj|solutionrelative:marina_k\\ui.hpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ui.cpp",
+              "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\marina_k\\marina_k\\ui.cpp",
+              "RelativeDocumentMoniker": "marina_k\\ui.cpp",
+              "ToolTip": "C:\\Users\\aboob\\source\\repos\\marina_k\\marina_k\\ui.cpp",
+              "RelativeToolTip": "marina_k\\ui.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T01:38:49.169Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ui.hpp",
+              "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\marina_k\\marina_k\\ui.hpp",
+              "RelativeDocumentMoniker": "marina_k\\ui.hpp",
+              "ToolTip": "C:\\Users\\aboob\\source\\repos\\marina_k\\marina_k\\ui.hpp",
+              "RelativeToolTip": "marina_k\\ui.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T01:38:35.668Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\marina_k\\marina_k\\main.cpp",
+              "RelativeDocumentMoniker": "marina_k\\main.cpp",
+              "ToolTip": "C:\\Users\\aboob\\source\\repos\\marina_k\\marina_k\\main.cpp",
+              "RelativeToolTip": "marina_k\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T01:39:07.993Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "db_ops.cpp",
+              "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\marina_k\\marina_k\\db_ops.cpp",
+              "RelativeDocumentMoniker": "marina_k\\db_ops.cpp",
+              "ToolTip": "C:\\Users\\aboob\\source\\repos\\marina_k\\marina_k\\db_ops.cpp",
+              "RelativeToolTip": "marina_k\\db_ops.cpp",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACIAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T01:38:19.979Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "db_ops.hpp",
+              "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\marina_k\\marina_k\\db_ops.hpp",
+              "RelativeDocumentMoniker": "marina_k\\db_ops.hpp",
+              "ToolTip": "C:\\Users\\aboob\\source\\repos\\marina_k\\marina_k\\db_ops.hpp",
+              "RelativeToolTip": "marina_k\\db_ops.hpp",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAcAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T01:38:06.189Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "file_io.cpp",
+              "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\marina_k\\marina_k\\file_io.cpp",
+              "RelativeDocumentMoniker": "marina_k\\file_io.cpp",
+              "ToolTip": "C:\\Users\\aboob\\source\\repos\\marina_k\\marina_k\\file_io.cpp",
+              "RelativeToolTip": "marina_k\\file_io.cpp",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAAAA4AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-05-17T01:37:50.479Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "file_io.hpp",
+              "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\marina_k\\marina_k\\file_io.hpp",
+              "RelativeDocumentMoniker": "marina_k\\file_io.hpp",
+              "ToolTip": "C:\\Users\\aboob\\source\\repos\\marina_k\\marina_k\\file_io.hpp",
+              "RelativeToolTip": "marina_k\\file_io.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T01:37:31.225Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "record.hpp",
+              "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\marina_k\\marina_k\\record.hpp",
+              "RelativeDocumentMoniker": "marina_k\\record.hpp",
+              "ToolTip": "C:\\Users\\aboob\\source\\repos\\marina_k\\marina_k\\record.hpp",
+              "RelativeToolTip": "marina_k\\record.hpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-05-17T01:37:12.321Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
