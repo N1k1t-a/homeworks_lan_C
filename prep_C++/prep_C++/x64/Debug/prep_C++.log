@@ -1,2 +1,13 @@
 ﻿  swith_case.cpp
-  prep_C++.vcxproj -> C:\Users\aboob\source\repos\prep_C++\x64\Debug\prep_C++.exe
+C:\Users\aboob\source\repos\prep_C++\prep_C++\swith_case.cpp(161,10): warning C4477: "printf": в строке форматирования "%ld" требуется аргумент типа "long", но вариативный аргумент "1" имеет тип "__int64"
+      C:\Users\aboob\source\repos\prep_C++\prep_C++\swith_case.cpp(161,10):
+      рекомендуется использовать "%lld" в строке форматирования
+      C:\Users\aboob\source\repos\prep_C++\prep_C++\swith_case.cpp(161,10):
+      рекомендуется использовать "%Id" в строке форматирования
+      C:\Users\aboob\source\repos\prep_C++\prep_C++\swith_case.cpp(161,10):
+      рекомендуется использовать "%I64d" в строке форматирования
+  
+C:\Users\aboob\source\repos\prep_C++\prep_C++\swith_case.cpp(164,7): error C2374: arr: переопределение; множественная инициализация
+      C:\Users\aboob\source\repos\prep_C++\prep_C++\swith_case.cpp(152,7):
+       см. объявление "arr"
+  

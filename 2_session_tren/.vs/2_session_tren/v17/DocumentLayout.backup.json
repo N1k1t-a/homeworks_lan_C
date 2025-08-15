@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\aboob\\source\\repos\\2_session_tren\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AC5B7EEE-D745-4F07-BDAA-B9B7817F1F87}|2_session_tren\\2_session_tren.vcxproj|C:\\Users\\aboob\\source\\repos\\2_session_tren\\2_session_tren\\abob.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{AC5B7EEE-D745-4F07-BDAA-B9B7817F1F87}|2_session_tren\\2_session_tren.vcxproj|solutionrelative:2_session_tren\\abob.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{AC5B7EEE-D745-4F07-BDAA-B9B7817F1F87}|2_session_tren\\2_session_tren.vcxproj|C:\\Users\\aboob\\source\\repos\\2_session_tren\\2_session_tren\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AC5B7EEE-D745-4F07-BDAA-B9B7817F1F87}|2_session_tren\\2_session_tren.vcxproj|solutionrelative:2_session_tren\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{AC5B7EEE-D745-4F07-BDAA-B9B7817F1F87}|2_session_tren\\2_session_tren.vcxproj|C:\\Users\\aboob\\source\\repos\\2_session_tren\\2_session_tren\\vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{AC5B7EEE-D745-4F07-BDAA-B9B7817F1F87}|2_session_tren\\2_session_tren.vcxproj|solutionrelative:2_session_tren\\vector.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AC5B7EEE-D745-4F07-BDAA-B9B7817F1F87}|2_session_tren\\2_session_tren.vcxproj|C:\\Users\\aboob\\source\\repos\\2_session_tren\\2_session_tren\\abob.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{AC5B7EEE-D745-4F07-BDAA-B9B7817F1F87}|2_session_tren\\2_session_tren.vcxproj|solutionrelative:2_session_tren\\abob.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,43 +22,43 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 2,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 0,
               "Title": "main.c",
               "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\2_session_tren\\2_session_tren\\main.c",
               "RelativeDocumentMoniker": "2_session_tren\\main.c",
               "ToolTip": "C:\\Users\\aboob\\source\\repos\\2_session_tren\\2_session_tren\\main.c",
               "RelativeToolTip": "2_session_tren\\main.c",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-06-05T18:27:19.289Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
               "Title": "vector.h",
               "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\2_session_tren\\2_session_tren\\vector.h",
               "RelativeDocumentMoniker": "2_session_tren\\vector.h",
               "ToolTip": "C:\\Users\\aboob\\source\\repos\\2_session_tren\\2_session_tren\\vector.h",
               "RelativeToolTip": "2_session_tren\\vector.h",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAGAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-06-05T18:20:16.87Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 2,
               "Title": "abob.c",
               "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\2_session_tren\\2_session_tren\\abob.c",
               "RelativeDocumentMoniker": "2_session_tren\\abob.c",
               "ToolTip": "C:\\Users\\aboob\\source\\repos\\2_session_tren\\2_session_tren\\abob.c",
               "RelativeToolTip": "2_session_tren\\abob.c",
-              "ViewState": "AgIAAC0AAAAAAAAAAAAmwE4AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAE4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
               "WhenOpened": "2025-06-02T16:52:27.512Z",
               "EditorCaption": ""

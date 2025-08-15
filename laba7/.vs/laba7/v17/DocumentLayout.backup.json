@@ -7,12 +7,12 @@
       "RelativeMoniker": "D:0:0:{A96235E6-5256-4133-B20C-4BE2AC5D8A23}|laba7\\laba7.vcxproj|solutionrelative:laba7\\main.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A96235E6-5256-4133-B20C-4BE2AC5D8A23}|laba7\\laba7.vcxproj|C:\\Users\\aboob\\source\\repos\\laba7\\laba7\\my_lab.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{A96235E6-5256-4133-B20C-4BE2AC5D8A23}|laba7\\laba7.vcxproj|solutionrelative:laba7\\my_lab.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{A96235E6-5256-4133-B20C-4BE2AC5D8A23}|laba7\\laba7.vcxproj|C:\\Users\\aboob\\source\\repos\\laba7\\laba7\\my_lab.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{A96235E6-5256-4133-B20C-4BE2AC5D8A23}|laba7\\laba7.vcxproj|solutionrelative:laba7\\my_lab.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A96235E6-5256-4133-B20C-4BE2AC5D8A23}|laba7\\laba7.vcxproj|C:\\Users\\aboob\\source\\repos\\laba7\\laba7\\my_lab.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{A96235E6-5256-4133-B20C-4BE2AC5D8A23}|laba7\\laba7.vcxproj|solutionrelative:laba7\\my_lab.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,8 +22,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "my_lab.c",
+              "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\laba7\\laba7\\my_lab.c",
+              "RelativeDocumentMoniker": "laba7\\my_lab.c",
+              "ToolTip": "C:\\Users\\aboob\\source\\repos\\laba7\\laba7\\my_lab.c",
+              "RelativeToolTip": "laba7\\my_lab.c",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
+              "WhenOpened": "2025-02-17T22:28:12.959Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -40,19 +53,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "my_lab.c",
-              "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\laba7\\laba7\\my_lab.c",
-              "RelativeDocumentMoniker": "laba7\\my_lab.c",
-              "ToolTip": "C:\\Users\\aboob\\source\\repos\\laba7\\laba7\\my_lab.c",
-              "RelativeToolTip": "laba7\\my_lab.c",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABcAAAARAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
-              "WhenOpened": "2025-02-17T22:28:12.959Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "my_lab.h",
               "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\laba7\\laba7\\my_lab.h",
               "RelativeDocumentMoniker": "laba7\\my_lab.h",

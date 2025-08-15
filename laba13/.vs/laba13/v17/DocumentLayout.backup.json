@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "laba13\\my_class.cpp",
               "ToolTip": "C:\\Users\\aboob\\source\\repos\\laba13\\laba13\\my_class.cpp",
               "RelativeToolTip": "laba13\\my_class.cpp",
-              "ViewState": "AgIAAFsAAAAAAAAAAAAYwGwAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-04-07T20:33:25.021Z",
               "EditorCaption": ""
@@ -47,8 +47,7 @@
               "RelativeToolTip": "laba13\\my_class.h",
               "ViewState": "AgIAABgAAAAAAAAAAAAYwCkAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-04-07T20:32:37.768Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T20:32:37.768Z"
             },
             {
               "$type": "Document",
@@ -60,8 +59,7 @@
               "RelativeToolTip": "laba13\\main.cpp",
               "ViewState": "AgIAACwAAAAAAAAAAAAYwD0AAAA8AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-04-07T20:32:19.877Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-07T20:32:19.877Z"
             }
           ]
         }
