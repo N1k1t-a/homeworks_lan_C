@@ -1,6 +1,7 @@
 #include "circle.h"
 #include "line.h"
 #include "Rectangle.h"
+#include "Equation.h"
 #include <iostream>
 
 int main() {
@@ -34,6 +35,18 @@ int main() {
 	for (int i = 0; i < 6; i++) {
 		std::cout << aboba[i];
 	}
+	std::cout << std::endl;
+
+
+	Equation eq1(1, 2, 1);
+	eq1.has_roots();
+
+	std::cout << std::endl;
+
+	int* max = get_array_avg(3, 5);
+
+	for (int i = 0; i < 4; i++)
+		std::cout << max[i];
 
 
 	return 0;
