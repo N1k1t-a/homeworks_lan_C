@@ -2,6 +2,7 @@
 #include "line.h"
 #include "Rectangle.h"
 #include "Equation.h"
+#include "runrecords.h"
 #include <iostream>
 
 int main() {
@@ -47,6 +48,13 @@ int main() {
 
 	for (int i = 0; i < 4; i++)
 		std::cout << max[i];
+
+	std::cout << std::endl;
+
+	RunRecords ress(2);
+
+	ress.set(1, 123);
+	std::cout << std::endl << ress.get(0) << "результат ебать" << std::endl;
 
 
 	return 0;
