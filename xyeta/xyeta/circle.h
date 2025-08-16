@@ -14,4 +14,7 @@ public:
 	double square();
 };
 
+int* get_array_pow(int n, int p);
+
+
 #endif
