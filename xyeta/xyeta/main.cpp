@@ -1,5 +1,6 @@
 #include "circle.h"
 #include "line.h"
+#include "Rectangle.h"
 #include <iostream>
 
 int main() {
@@ -21,9 +22,18 @@ int main() {
 	Line line1(2, 2, 12, 1);
 
 	if (line1.is_straight()){
-		std::cout << "прямая";
+		std::cout << "прямая" << std::endl;
 	}
 
+	Rectangle r1(0, 0, 12, 4);
+	r1.show();
+	std::cout << r1.perimeter() << "ето периметр" << std::endl;
+
+	int* aboba = get_array_sum(3);
+
+	for (int i = 0; i < 6; i++) {
+		std::cout << aboba[i];
+	}
 
 
 	return 0;

@@ -7,24 +7,36 @@
       "RelativeMoniker": "D:0:0:{16EA7718-3EAE-42B0-95DA-CF6DD6514DE8}|xyeta\\xyeta.vcxproj|solutionrelative:xyeta\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{16EA7718-3EAE-42B0-95DA-CF6DD6514DE8}|xyeta\\xyeta.vcxproj|C:\\Users\\aboob\\source\\repos\\xyeta\\xyeta\\line.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{16EA7718-3EAE-42B0-95DA-CF6DD6514DE8}|xyeta\\xyeta.vcxproj|solutionrelative:xyeta\\line.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16EA7718-3EAE-42B0-95DA-CF6DD6514DE8}|xyeta\\xyeta.vcxproj|C:\\Users\\aboob\\source\\repos\\xyeta\\xyeta\\line.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{16EA7718-3EAE-42B0-95DA-CF6DD6514DE8}|xyeta\\xyeta.vcxproj|solutionrelative:xyeta\\line.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{16EA7718-3EAE-42B0-95DA-CF6DD6514DE8}|xyeta\\xyeta.vcxproj|C:\\Users\\aboob\\source\\repos\\xyeta\\xyeta\\circle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{16EA7718-3EAE-42B0-95DA-CF6DD6514DE8}|xyeta\\xyeta.vcxproj|solutionrelative:xyeta\\circle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{16EA7718-3EAE-42B0-95DA-CF6DD6514DE8}|xyeta\\xyeta.vcxproj|C:\\Users\\aboob\\source\\repos\\xyeta\\xyeta\\var3_task_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{16EA7718-3EAE-42B0-95DA-CF6DD6514DE8}|xyeta\\xyeta.vcxproj|solutionrelative:xyeta\\var3_task_2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{16EA7718-3EAE-42B0-95DA-CF6DD6514DE8}|xyeta\\xyeta.vcxproj|C:\\Users\\aboob\\source\\repos\\xyeta\\xyeta\\get_array_pow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{16EA7718-3EAE-42B0-95DA-CF6DD6514DE8}|xyeta\\xyeta.vcxproj|solutionrelative:xyeta\\get_array_pow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{16EA7718-3EAE-42B0-95DA-CF6DD6514DE8}|xyeta\\xyeta.vcxproj|C:\\Users\\aboob\\source\\repos\\xyeta\\xyeta\\rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{16EA7718-3EAE-42B0-95DA-CF6DD6514DE8}|xyeta\\xyeta.vcxproj|solutionrelative:xyeta\\rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EA7718-3EAE-42B0-95DA-CF6DD6514DE8}|xyeta\\xyeta.vcxproj|C:\\Users\\aboob\\source\\repos\\xyeta\\xyeta\\Rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{16EA7718-3EAE-42B0-95DA-CF6DD6514DE8}|xyeta\\xyeta.vcxproj|solutionrelative:xyeta\\Rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{16EA7718-3EAE-42B0-95DA-CF6DD6514DE8}|xyeta\\xyeta.vcxproj|C:\\Users\\aboob\\source\\repos\\xyeta\\xyeta\\circle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{16EA7718-3EAE-42B0-95DA-CF6DD6514DE8}|xyeta\\xyeta.vcxproj|solutionrelative:xyeta\\circle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EA7718-3EAE-42B0-95DA-CF6DD6514DE8}|xyeta\\xyeta.vcxproj|C:\\Users\\aboob\\source\\repos\\xyeta\\xyeta\\line.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{16EA7718-3EAE-42B0-95DA-CF6DD6514DE8}|xyeta\\xyeta.vcxproj|solutionrelative:xyeta\\line.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EA7718-3EAE-42B0-95DA-CF6DD6514DE8}|xyeta\\xyeta.vcxproj|C:\\Users\\aboob\\source\\repos\\xyeta\\xyeta\\line.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{16EA7718-3EAE-42B0-95DA-CF6DD6514DE8}|xyeta\\xyeta.vcxproj|solutionrelative:xyeta\\line.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{16EA7718-3EAE-42B0-95DA-CF6DD6514DE8}|xyeta\\xyeta.vcxproj|C:\\Users\\aboob\\source\\repos\\xyeta\\xyeta\\circle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{16EA7718-3EAE-42B0-95DA-CF6DD6514DE8}|xyeta\\xyeta.vcxproj|solutionrelative:xyeta\\circle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,11 +46,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 5,
+          "SelectedChildIndex": 8,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 1,
+              "Title": "var3_task_2.cpp",
+              "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\xyeta\\xyeta\\var3_task_2.cpp",
+              "RelativeDocumentMoniker": "xyeta\\var3_task_2.cpp",
+              "ToolTip": "C:\\Users\\aboob\\source\\repos\\xyeta\\xyeta\\var3_task_2.cpp*",
+              "RelativeToolTip": "xyeta\\var3_task_2.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-16T17:13:58.405Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Rectangle.h",
+              "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\xyeta\\xyeta\\Rectangle.h",
+              "RelativeDocumentMoniker": "xyeta\\Rectangle.h",
+              "ToolTip": "C:\\Users\\aboob\\source\\repos\\xyeta\\xyeta\\Rectangle.h",
+              "RelativeToolTip": "xyeta\\Rectangle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-16T16:39:57.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "rectangle.cpp",
+              "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\xyeta\\xyeta\\rectangle.cpp",
+              "RelativeDocumentMoniker": "xyeta\\rectangle.cpp",
+              "ToolTip": "C:\\Users\\aboob\\source\\repos\\xyeta\\xyeta\\rectangle.cpp",
+              "RelativeToolTip": "xyeta\\rectangle.cpp",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-16T16:39:52.791Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "line.cpp",
               "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\xyeta\\xyeta\\line.cpp",
               "RelativeDocumentMoniker": "xyeta\\line.cpp",
@@ -51,12 +102,12 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 7,
               "Title": "line.h",
               "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\xyeta\\xyeta\\line.h",
               "RelativeDocumentMoniker": "xyeta\\line.h",
-              "ToolTip": "C:\\Users\\aboob\\source\\repos\\xyeta\\xyeta\\line.h*",
-              "RelativeToolTip": "xyeta\\line.h*",
+              "ToolTip": "C:\\Users\\aboob\\source\\repos\\xyeta\\xyeta\\line.h",
+              "RelativeToolTip": "xyeta\\line.h",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
               "WhenOpened": "2025-08-15T13:22:59.91Z",
@@ -64,7 +115,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 2,
               "Title": "get_array_pow.cpp",
               "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\xyeta\\xyeta\\get_array_pow.cpp",
               "RelativeDocumentMoniker": "xyeta\\get_array_pow.cpp",
@@ -90,7 +141,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 8,
               "Title": "circle.cpp",
               "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\xyeta\\xyeta\\circle.cpp",
               "RelativeDocumentMoniker": "xyeta\\circle.cpp",
@@ -98,8 +149,7 @@
               "RelativeToolTip": "xyeta\\circle.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-15T11:42:30.249Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-15T11:42:30.249Z"
             },
             {
               "$type": "Document",
@@ -109,7 +159,7 @@
               "RelativeDocumentMoniker": "xyeta\\main.cpp",
               "ToolTip": "C:\\Users\\aboob\\source\\repos\\xyeta\\xyeta\\main.cpp",
               "RelativeToolTip": "xyeta\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAZAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-15T11:42:23.358Z",
               "EditorCaption": ""
