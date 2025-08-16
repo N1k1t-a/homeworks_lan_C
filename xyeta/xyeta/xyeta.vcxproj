@@ -133,6 +133,7 @@
     <ClCompile Include="line.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="rectangle.cpp" />
+    <ClCompile Include="student.cpp" />
     <ClCompile Include="var3_task_2.cpp" />
     <ClCompile Include="var4ex2.cpp" />
   </ItemGroup>
@@ -141,6 +142,7 @@
     <ClInclude Include="Equation.h" />
     <ClInclude Include="line.h" />
     <ClInclude Include="Rectangle.h" />
+    <ClInclude Include="student.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
