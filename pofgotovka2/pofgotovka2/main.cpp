@@ -1,4 +1,5 @@
 #include "circle.h"
+#include "line.h"
 #include <iostream>
 
 
@@ -20,6 +21,12 @@ int main() {
 
 	std::cout << std::endl << std::endl << "это первое задание второго варианта" << std::endl;
 
+	Line le1(2, 2, 1, 3);
+
+	le1.show();
+	int i = le1.is_straight();
+
+	std::cout << i << std::endl;
 
 	return 0;
 }

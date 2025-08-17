@@ -7,6 +7,14 @@
       "RelativeMoniker": "D:0:0:{D48E4972-EA80-456C-88EA-5B236DF04F86}|pofgotovka2\\pofgotovka2.vcxproj|solutionrelative:pofgotovka2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{D48E4972-EA80-456C-88EA-5B236DF04F86}|pofgotovka2\\pofgotovka2.vcxproj|C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\line.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D48E4972-EA80-456C-88EA-5B236DF04F86}|pofgotovka2\\pofgotovka2.vcxproj|solutionrelative:pofgotovka2\\line.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48E4972-EA80-456C-88EA-5B236DF04F86}|pofgotovka2\\pofgotovka2.vcxproj|C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\line.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D48E4972-EA80-456C-88EA-5B236DF04F86}|pofgotovka2\\pofgotovka2.vcxproj|solutionrelative:pofgotovka2\\line.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D48E4972-EA80-456C-88EA-5B236DF04F86}|pofgotovka2\\pofgotovka2.vcxproj|C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\var1ex2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D48E4972-EA80-456C-88EA-5B236DF04F86}|pofgotovka2\\pofgotovka2.vcxproj|solutionrelative:pofgotovka2\\var1ex2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -26,11 +34,37 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 5,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "line.h",
+              "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\line.h",
+              "RelativeDocumentMoniker": "pofgotovka2\\line.h",
+              "ToolTip": "C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\line.h",
+              "RelativeToolTip": "pofgotovka2\\line.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-17T15:00:15.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "line.cpp",
+              "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\line.cpp",
+              "RelativeDocumentMoniker": "pofgotovka2\\line.cpp",
+              "ToolTip": "C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\line.cpp",
+              "RelativeToolTip": "pofgotovka2\\line.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-17T15:00:07.72Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
               "Title": "var1ex2.cpp",
               "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\var1ex2.cpp",
               "RelativeDocumentMoniker": "pofgotovka2\\var1ex2.cpp",
@@ -38,12 +72,11 @@
               "RelativeToolTip": "pofgotovka2\\var1ex2.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-17T14:03:06.457Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-17T14:03:06.457Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "circle.h",
               "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\circle.h",
               "RelativeDocumentMoniker": "pofgotovka2\\circle.h",
@@ -51,12 +84,11 @@
               "RelativeToolTip": "pofgotovka2\\circle.h",
               "ViewState": "AgIAAAIAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-17T13:37:23.833Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-17T13:37:23.833Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "circle.cpp",
               "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\circle.cpp",
               "RelativeDocumentMoniker": "pofgotovka2\\circle.cpp",
@@ -64,8 +96,7 @@
               "RelativeToolTip": "pofgotovka2\\circle.cpp",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-17T13:37:14.586Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-08-17T13:37:14.586Z"
             },
             {
               "$type": "Document",
@@ -75,7 +106,7 @@
               "RelativeDocumentMoniker": "pofgotovka2\\main.cpp",
               "ToolTip": "C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\main.cpp",
               "RelativeToolTip": "pofgotovka2\\main.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAABDAAAAAAAAAA==",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-17T12:31:46.232Z",
               "EditorCaption": ""
