@@ -1,5 +1,6 @@
 #include "circle.h"
 #include "line.h"
+#include "Rectangle.h"
 #include <iostream>
 
 
@@ -27,6 +28,22 @@ int main() {
 	int i = le1.is_straight();
 
 	std::cout << i << std::endl;
+
+
+	std::cout << std::endl << std::endl << "это первое задание третьего варианта" << std::endl;
+
+	Rectangle r1(1, 23, 4, 2);
+	r1.show();
+
+	std::cout << "это второе задание третьего варианта" << std::endl;
+
+	int* a = get_array_sum(3);
+
+	for (int i = 0; i < 6; i++) {
+		std::cout << a[i] << " ";
+	}
+
+
 
 	return 0;
 }

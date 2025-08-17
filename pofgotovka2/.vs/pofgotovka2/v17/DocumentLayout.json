@@ -3,12 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\aboob\\source\\repos\\pofgotovka2\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{D48E4972-EA80-456C-88EA-5B236DF04F86}|pofgotovka2\\pofgotovka2.vcxproj|C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\var2ex2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D48E4972-EA80-456C-88EA-5B236DF04F86}|pofgotovka2\\pofgotovka2.vcxproj|solutionrelative:pofgotovka2\\var2ex2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D48E4972-EA80-456C-88EA-5B236DF04F86}|pofgotovka2\\pofgotovka2.vcxproj|C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\Rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D48E4972-EA80-456C-88EA-5B236DF04F86}|pofgotovka2\\pofgotovka2.vcxproj|solutionrelative:pofgotovka2\\Rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48E4972-EA80-456C-88EA-5B236DF04F86}|pofgotovka2\\pofgotovka2.vcxproj|C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\var3ex2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D48E4972-EA80-456C-88EA-5B236DF04F86}|pofgotovka2\\pofgotovka2.vcxproj|solutionrelative:pofgotovka2\\var3ex2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D48E4972-EA80-456C-88EA-5B236DF04F86}|pofgotovka2\\pofgotovka2.vcxproj|C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D48E4972-EA80-456C-88EA-5B236DF04F86}|pofgotovka2\\pofgotovka2.vcxproj|solutionrelative:pofgotovka2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D48E4972-EA80-456C-88EA-5B236DF04F86}|pofgotovka2\\pofgotovka2.vcxproj|C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\Rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D48E4972-EA80-456C-88EA-5B236DF04F86}|pofgotovka2\\pofgotovka2.vcxproj|solutionrelative:pofgotovka2\\Rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D48E4972-EA80-456C-88EA-5B236DF04F86}|pofgotovka2\\pofgotovka2.vcxproj|C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\line.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
@@ -19,16 +27,8 @@
       "RelativeMoniker": "D:0:0:{D48E4972-EA80-456C-88EA-5B236DF04F86}|pofgotovka2\\pofgotovka2.vcxproj|solutionrelative:pofgotovka2\\line.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D48E4972-EA80-456C-88EA-5B236DF04F86}|pofgotovka2\\pofgotovka2.vcxproj|C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\var1ex2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D48E4972-EA80-456C-88EA-5B236DF04F86}|pofgotovka2\\pofgotovka2.vcxproj|solutionrelative:pofgotovka2\\var1ex2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D48E4972-EA80-456C-88EA-5B236DF04F86}|pofgotovka2\\pofgotovka2.vcxproj|C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\circle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D48E4972-EA80-456C-88EA-5B236DF04F86}|pofgotovka2\\pofgotovka2.vcxproj|solutionrelative:pofgotovka2\\circle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D48E4972-EA80-456C-88EA-5B236DF04F86}|pofgotovka2\\pofgotovka2.vcxproj|C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\circle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
-      "RelativeMoniker": "D:0:0:{D48E4972-EA80-456C-88EA-5B236DF04F86}|pofgotovka2\\pofgotovka2.vcxproj|solutionrelative:pofgotovka2\\circle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+      "AbsoluteMoniker": "D:0:0:{D48E4972-EA80-456C-88EA-5B236DF04F86}|pofgotovka2\\pofgotovka2.vcxproj|C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\var2ex2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D48E4972-EA80-456C-88EA-5B236DF04F86}|pofgotovka2\\pofgotovka2.vcxproj|solutionrelative:pofgotovka2\\var2ex2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
   "DocumentGroupContainers": [
@@ -38,11 +38,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
             {
               "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "var3ex2.cpp",
+              "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\var3ex2.cpp",
+              "RelativeDocumentMoniker": "pofgotovka2\\var3ex2.cpp",
+              "ToolTip": "C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\var3ex2.cpp",
+              "RelativeToolTip": "pofgotovka2\\var3ex2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-17T16:26:33.471Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Rectangle.h",
+              "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\Rectangle.h",
+              "RelativeDocumentMoniker": "pofgotovka2\\Rectangle.h",
+              "ToolTip": "C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\Rectangle.h",
+              "RelativeToolTip": "pofgotovka2\\Rectangle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-08-17T15:42:11.201Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Rectangle.cpp",
+              "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\Rectangle.cpp",
+              "RelativeDocumentMoniker": "pofgotovka2\\Rectangle.cpp",
+              "ToolTip": "C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\Rectangle.cpp",
+              "RelativeToolTip": "pofgotovka2\\Rectangle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-08-17T15:41:55.388Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "var2ex2.cpp",
               "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\var2ex2.cpp",
               "RelativeDocumentMoniker": "pofgotovka2\\var2ex2.cpp",
@@ -55,7 +94,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 5,
               "Title": "line.h",
               "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\line.h",
               "RelativeDocumentMoniker": "pofgotovka2\\line.h",
@@ -68,7 +107,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 4,
               "Title": "line.cpp",
               "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\line.cpp",
               "RelativeDocumentMoniker": "pofgotovka2\\line.cpp",
@@ -81,49 +120,13 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "var1ex2.cpp",
-              "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\var1ex2.cpp",
-              "RelativeDocumentMoniker": "pofgotovka2\\var1ex2.cpp",
-              "ToolTip": "C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\var1ex2.cpp",
-              "RelativeToolTip": "pofgotovka2\\var1ex2.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAMAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-17T14:03:06.457Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "circle.h",
-              "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\circle.h",
-              "RelativeDocumentMoniker": "pofgotovka2\\circle.h",
-              "ToolTip": "C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\circle.h",
-              "RelativeToolTip": "pofgotovka2\\circle.h",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
-              "WhenOpened": "2025-08-17T13:37:23.833Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "circle.cpp",
-              "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\circle.cpp",
-              "RelativeDocumentMoniker": "pofgotovka2\\circle.cpp",
-              "ToolTip": "C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\circle.cpp",
-              "RelativeToolTip": "pofgotovka2\\circle.cpp",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAfAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-08-17T13:37:14.586Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\main.cpp",
               "RelativeDocumentMoniker": "pofgotovka2\\main.cpp",
               "ToolTip": "C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\main.cpp",
               "RelativeToolTip": "pofgotovka2\\main.cpp",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABcAAAAOAAAAAAAAAA==",
+              "ViewState": "AgIAABsAAAAAAAAAAAAAACkAAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-08-17T12:31:46.232Z",
               "EditorCaption": ""
