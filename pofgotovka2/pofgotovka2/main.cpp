@@ -1,6 +1,7 @@
 #include "circle.h"
 #include "line.h"
 #include "Rectangle.h"
+#include "equation.h"
 #include <iostream>
 
 
@@ -42,6 +43,23 @@ int main() {
 	for (int i = 0; i < 6; i++) {
 		std::cout << a[i] << " ";
 	}
+
+	std::cout << std::endl << std::endl << "это первое задание четвертого варианта" << std::endl;
+
+	Equation eq1(2, 4, 2);
+
+	eq1.has_roots();
+	eq1.show();
+
+	std::cout << "это второе задание четветого варианта" << std::endl;
+
+	int* ress = get_array_avg(4, 6);
+
+	for (int i = 0; i < 5; i++)
+		std::cout << ress[i] << " ";
+
+	std::cout << std::endl << std::endl << "это первое задание пятого варианта" << std::endl;
+
 
 
 
