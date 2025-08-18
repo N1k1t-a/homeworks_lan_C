@@ -58,7 +58,7 @@ int main() {
 	for (int i = 0; i < 5; i++)
 		std::cout << ress[i] << " ";
 
-	std::cout << std::endl << std::endl << "это первое задание пятого варианта" << std::endl;
+	std::cout << std::endl << std::endl << "это первое задание шестого варианта" << std::endl;
 
 
 
