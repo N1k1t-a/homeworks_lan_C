@@ -2,6 +2,7 @@
 #include "line.h"
 #include "Rectangle.h"
 #include "equation.h"
+#include "student.h"
 #include <iostream>
 
 
@@ -59,6 +60,13 @@ int main() {
 		std::cout << ress[i] << " ";
 
 	std::cout << std::endl << std::endl << "это первое задание шестого варианта" << std::endl;
+
+	std::cout << "обойдемся пожалуй без примера, потому что я умный и мне лень" << std::endl;
+	
+	const int n = 6;
+	int array[n];
+
+	set_array_squares(array, n);
 
 
 

@@ -15,4 +15,6 @@ public:
 	void set(int i, int oc);
 };
 
+void set_array_squares(int array[], int n);
+
 #endif
