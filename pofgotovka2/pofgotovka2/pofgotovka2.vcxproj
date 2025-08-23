@@ -132,6 +132,7 @@
     <ClCompile Include="line.cpp" />
     <ClCompile Include="main.cpp" />
     <ClCompile Include="Rectangle.cpp" />
+    <ClCompile Include="runrecords.cpp" />
     <ClCompile Include="student.cpp" />
     <ClCompile Include="var1ex2.cpp" />
     <ClCompile Include="var2ex2.cpp" />
@@ -144,6 +145,7 @@
     <ClInclude Include="equation.h" />
     <ClInclude Include="line.h" />
     <ClInclude Include="Rectangle.h" />
+    <ClInclude Include="runrecords.h" />
     <ClInclude Include="student.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
