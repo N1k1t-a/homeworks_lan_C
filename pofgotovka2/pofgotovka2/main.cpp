@@ -3,6 +3,7 @@
 #include "Rectangle.h"
 #include "equation.h"
 #include "student.h"
+#include "runrecords.h"
 #include <iostream>
 
 
@@ -68,8 +69,17 @@ int main() {
 
 	set_array_squares(array, n);
 
+	std::cout << "Это второе задание седьмого варианта " << std::endl;
 
+	const int n2 = 8;
+	int array1[n2];
+	int array2[n2]{ 1, 2, 3, 4, 5, 6, 7, 8 };
 
+	coppy_array_sqadis(array1, array2, n2);
+
+	for (int i = 0; i < n2; ++i) {
+		std::cout << array1[i] << "  ";
+	}
 
 	return 0;
 }

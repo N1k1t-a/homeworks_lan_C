@@ -18,4 +18,6 @@ public:
 
 };
 
+void coppy_array_sqadis(int* array1, int* array2, int n);
+
 #endif
