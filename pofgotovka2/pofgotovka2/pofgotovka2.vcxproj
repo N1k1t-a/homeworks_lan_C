@@ -135,6 +135,7 @@
     <ClCompile Include="runrecords.cpp" />
     <ClCompile Include="student.cpp" />
     <ClCompile Include="var1ex2.cpp" />
+    <ClCompile Include="var1ex3.cpp" />
     <ClCompile Include="var2ex2.cpp" />
     <ClCompile Include="var3ex2.cpp" />
     <ClCompile Include="var4ex2.cpp" />
