@@ -142,6 +142,7 @@
     <ClCompile Include="var3ex3.cpp" />
     <ClCompile Include="var4ex2.cpp" />
     <ClCompile Include="var4ex4.cpp" />
+    <ClCompile Include="var4exe4.cpp" />
     <ClCompile Include="var6ex2.cpp" />
     <ClCompile Include="var7ex2.cpp" />
   </ItemGroup>
