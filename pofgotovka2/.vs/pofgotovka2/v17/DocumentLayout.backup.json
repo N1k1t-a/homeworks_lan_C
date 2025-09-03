@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\aboob\\source\\repos\\pofgotovka2\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D48E4972-EA80-456C-88EA-5B236DF04F86}|pofgotovka2\\pofgotovka2.vcxproj|C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\var6ex3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{D48E4972-EA80-456C-88EA-5B236DF04F86}|pofgotovka2\\pofgotovka2.vcxproj|solutionrelative:pofgotovka2\\var6ex3.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D48E4972-EA80-456C-88EA-5B236DF04F86}|pofgotovka2\\pofgotovka2.vcxproj|C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\var4exe4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{D48E4972-EA80-456C-88EA-5B236DF04F86}|pofgotovka2\\pofgotovka2.vcxproj|solutionrelative:pofgotovka2\\var4exe4.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     },
@@ -67,6 +71,19 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "var6ex3.cpp",
+              "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\var6ex3.cpp",
+              "RelativeDocumentMoniker": "pofgotovka2\\var6ex3.cpp",
+              "ToolTip": "C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\var6ex3.cpp",
+              "RelativeToolTip": "pofgotovka2\\var6ex3.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-03T16:37:42.12Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "var4exe4.cpp",
               "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\var4exe4.cpp",
               "RelativeDocumentMoniker": "pofgotovka2\\var4exe4.cpp",
@@ -79,7 +96,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "var4ex4.cpp",
               "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\var4ex4.cpp",
               "RelativeDocumentMoniker": "pofgotovka2\\var4ex4.cpp",
@@ -87,12 +104,11 @@
               "RelativeToolTip": "pofgotovka2\\var4ex4.cpp",
               "ViewState": "AgIAABIAAAAAAAAAAAAAAB0AAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
-              "WhenOpened": "2025-09-03T15:41:17.838Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-09-03T15:41:17.838Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "var3ex3.cpp",
               "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\var3ex3.cpp",
               "RelativeDocumentMoniker": "pofgotovka2\\var3ex3.cpp",
@@ -104,7 +120,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "var2ex3.cpp",
               "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\var2ex3.cpp",
               "RelativeDocumentMoniker": "pofgotovka2\\var2ex3.cpp",
@@ -116,7 +132,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "var1ex3.cpp",
               "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\var1ex3.cpp",
               "RelativeDocumentMoniker": "pofgotovka2\\var1ex3.cpp",
@@ -128,7 +144,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 7,
               "Title": "var7ex2.cpp",
               "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\var7ex2.cpp",
               "RelativeDocumentMoniker": "pofgotovka2\\var7ex2.cpp",
@@ -140,7 +156,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 8,
               "Title": "runrecords.h",
               "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\runrecords.h",
               "RelativeDocumentMoniker": "pofgotovka2\\runrecords.h",
@@ -152,7 +168,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "runrecords.cpp",
               "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\runrecords.cpp",
               "RelativeDocumentMoniker": "pofgotovka2\\runrecords.cpp",
@@ -164,7 +180,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "var6ex2.cpp",
               "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\var6ex2.cpp",
               "RelativeDocumentMoniker": "pofgotovka2\\var6ex2.cpp",
@@ -176,7 +192,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "student.h",
               "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\student.h",
               "RelativeDocumentMoniker": "pofgotovka2\\student.h",
@@ -188,7 +204,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "student.cpp",
               "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\student.cpp",
               "RelativeDocumentMoniker": "pofgotovka2\\student.cpp",
@@ -200,7 +216,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "var4ex2.cpp",
               "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\var4ex2.cpp",
               "RelativeDocumentMoniker": "pofgotovka2\\var4ex2.cpp",
@@ -212,7 +228,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 6,
               "Title": "main.cpp",
               "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\pofgotovka2\\pofgotovka2\\main.cpp",
               "RelativeDocumentMoniker": "pofgotovka2\\main.cpp",

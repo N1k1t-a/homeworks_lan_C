@@ -146,6 +146,7 @@
     <ClCompile Include="var6ex2.cpp" />
     <ClCompile Include="var6ex3.cpp" />
     <ClCompile Include="var7ex2.cpp" />
+    <ClCompile Include="var7ex3.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="circle.h" />
