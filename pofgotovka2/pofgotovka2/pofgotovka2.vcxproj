@@ -139,6 +139,7 @@
     <ClCompile Include="var2ex2.cpp" />
     <ClCompile Include="var2ex3.cpp" />
     <ClCompile Include="var3ex2.cpp" />
+    <ClCompile Include="var3ex3.cpp" />
     <ClCompile Include="var4ex2.cpp" />
     <ClCompile Include="var6ex2.cpp" />
     <ClCompile Include="var7ex2.cpp" />
