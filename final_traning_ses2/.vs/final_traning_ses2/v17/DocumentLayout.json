@@ -1,0 +1,280 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aboob\\source\\repos\\final_traning_ses2\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41372612-AD14-4A38-B4E2-A3A80A0B47B8}|final_traning_ses2\\final_traning_ses2.vcxproj|C:\\Users\\aboob\\source\\repos\\final_traning_ses2\\final_traning_ses2\\circle2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{41372612-AD14-4A38-B4E2-A3A80A0B47B8}|final_traning_ses2\\final_traning_ses2.vcxproj|solutionrelative:final_traning_ses2\\circle2.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41372612-AD14-4A38-B4E2-A3A80A0B47B8}|final_traning_ses2\\final_traning_ses2.vcxproj|C:\\Users\\aboob\\source\\repos\\final_traning_ses2\\final_traning_ses2\\RunRecords.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{41372612-AD14-4A38-B4E2-A3A80A0B47B8}|final_traning_ses2\\final_traning_ses2.vcxproj|solutionrelative:final_traning_ses2\\RunRecords.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41372612-AD14-4A38-B4E2-A3A80A0B47B8}|final_traning_ses2\\final_traning_ses2.vcxproj|C:\\Users\\aboob\\source\\repos\\final_traning_ses2\\final_traning_ses2\\RunRecords.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{41372612-AD14-4A38-B4E2-A3A80A0B47B8}|final_traning_ses2\\final_traning_ses2.vcxproj|solutionrelative:final_traning_ses2\\RunRecords.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41372612-AD14-4A38-B4E2-A3A80A0B47B8}|final_traning_ses2\\final_traning_ses2.vcxproj|C:\\Users\\aboob\\source\\repos\\final_traning_ses2\\final_traning_ses2\\student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{41372612-AD14-4A38-B4E2-A3A80A0B47B8}|final_traning_ses2\\final_traning_ses2.vcxproj|solutionrelative:final_traning_ses2\\student.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41372612-AD14-4A38-B4E2-A3A80A0B47B8}|final_traning_ses2\\final_traning_ses2.vcxproj|C:\\Users\\aboob\\source\\repos\\final_traning_ses2\\final_traning_ses2\\student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{41372612-AD14-4A38-B4E2-A3A80A0B47B8}|final_traning_ses2\\final_traning_ses2.vcxproj|solutionrelative:final_traning_ses2\\student.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41372612-AD14-4A38-B4E2-A3A80A0B47B8}|final_traning_ses2\\final_traning_ses2.vcxproj|C:\\Users\\aboob\\source\\repos\\final_traning_ses2\\final_traning_ses2\\equation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{41372612-AD14-4A38-B4E2-A3A80A0B47B8}|final_traning_ses2\\final_traning_ses2.vcxproj|solutionrelative:final_traning_ses2\\equation.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41372612-AD14-4A38-B4E2-A3A80A0B47B8}|final_traning_ses2\\final_traning_ses2.vcxproj|C:\\Users\\aboob\\source\\repos\\final_traning_ses2\\final_traning_ses2\\equation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{41372612-AD14-4A38-B4E2-A3A80A0B47B8}|final_traning_ses2\\final_traning_ses2.vcxproj|solutionrelative:final_traning_ses2\\equation.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41372612-AD14-4A38-B4E2-A3A80A0B47B8}|final_traning_ses2\\final_traning_ses2.vcxproj|C:\\Users\\aboob\\source\\repos\\final_traning_ses2\\final_traning_ses2\\rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{41372612-AD14-4A38-B4E2-A3A80A0B47B8}|final_traning_ses2\\final_traning_ses2.vcxproj|solutionrelative:final_traning_ses2\\rectangle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41372612-AD14-4A38-B4E2-A3A80A0B47B8}|final_traning_ses2\\final_traning_ses2.vcxproj|C:\\Users\\aboob\\source\\repos\\final_traning_ses2\\final_traning_ses2\\rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{41372612-AD14-4A38-B4E2-A3A80A0B47B8}|final_traning_ses2\\final_traning_ses2.vcxproj|solutionrelative:final_traning_ses2\\rectangle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41372612-AD14-4A38-B4E2-A3A80A0B47B8}|final_traning_ses2\\final_traning_ses2.vcxproj|C:\\Users\\aboob\\source\\repos\\final_traning_ses2\\final_traning_ses2\\get_array_mul .cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{41372612-AD14-4A38-B4E2-A3A80A0B47B8}|final_traning_ses2\\final_traning_ses2.vcxproj|solutionrelative:final_traning_ses2\\get_array_mul .cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41372612-AD14-4A38-B4E2-A3A80A0B47B8}|final_traning_ses2\\final_traning_ses2.vcxproj|C:\\Users\\aboob\\source\\repos\\final_traning_ses2\\final_traning_ses2\\line.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{41372612-AD14-4A38-B4E2-A3A80A0B47B8}|final_traning_ses2\\final_traning_ses2.vcxproj|solutionrelative:final_traning_ses2\\line.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41372612-AD14-4A38-B4E2-A3A80A0B47B8}|final_traning_ses2\\final_traning_ses2.vcxproj|C:\\Users\\aboob\\source\\repos\\final_traning_ses2\\final_traning_ses2\\line.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{41372612-AD14-4A38-B4E2-A3A80A0B47B8}|final_traning_ses2\\final_traning_ses2.vcxproj|solutionrelative:final_traning_ses2\\line.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41372612-AD14-4A38-B4E2-A3A80A0B47B8}|final_traning_ses2\\final_traning_ses2.vcxproj|C:\\Users\\aboob\\source\\repos\\final_traning_ses2\\final_traning_ses2\\circle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{41372612-AD14-4A38-B4E2-A3A80A0B47B8}|final_traning_ses2\\final_traning_ses2.vcxproj|solutionrelative:final_traning_ses2\\circle.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41372612-AD14-4A38-B4E2-A3A80A0B47B8}|final_traning_ses2\\final_traning_ses2.vcxproj|C:\\Users\\aboob\\source\\repos\\final_traning_ses2\\final_traning_ses2\\get_array_pow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{41372612-AD14-4A38-B4E2-A3A80A0B47B8}|final_traning_ses2\\final_traning_ses2.vcxproj|solutionrelative:final_traning_ses2\\get_array_pow.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41372612-AD14-4A38-B4E2-A3A80A0B47B8}|final_traning_ses2\\final_traning_ses2.vcxproj|C:\\Users\\aboob\\source\\repos\\final_traning_ses2\\final_traning_ses2\\circle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{41372612-AD14-4A38-B4E2-A3A80A0B47B8}|final_traning_ses2\\final_traning_ses2.vcxproj|solutionrelative:final_traning_ses2\\circle.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41372612-AD14-4A38-B4E2-A3A80A0B47B8}|final_traning_ses2\\final_traning_ses2.vcxproj|C:\\Users\\aboob\\source\\repos\\final_traning_ses2\\final_traning_ses2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{41372612-AD14-4A38-B4E2-A3A80A0B47B8}|final_traning_ses2\\final_traning_ses2.vcxproj|solutionrelative:final_traning_ses2\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "circle2.cpp",
+              "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\final_traning_ses2\\final_traning_ses2\\circle2.cpp",
+              "RelativeDocumentMoniker": "final_traning_ses2\\circle2.cpp",
+              "ToolTip": "C:\\Users\\aboob\\source\\repos\\final_traning_ses2\\final_traning_ses2\\circle2.cpp",
+              "RelativeToolTip": "final_traning_ses2\\circle2.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-08T11:00:45.922Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RunRecords.h",
+              "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\final_traning_ses2\\final_traning_ses2\\RunRecords.h",
+              "RelativeDocumentMoniker": "final_traning_ses2\\RunRecords.h",
+              "ToolTip": "C:\\Users\\aboob\\source\\repos\\final_traning_ses2\\final_traning_ses2\\RunRecords.h",
+              "RelativeToolTip": "final_traning_ses2\\RunRecords.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-08T08:35:19.32Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RunRecords.cpp",
+              "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\final_traning_ses2\\final_traning_ses2\\RunRecords.cpp",
+              "RelativeDocumentMoniker": "final_traning_ses2\\RunRecords.cpp",
+              "ToolTip": "C:\\Users\\aboob\\source\\repos\\final_traning_ses2\\final_traning_ses2\\RunRecords.cpp",
+              "RelativeToolTip": "final_traning_ses2\\RunRecords.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-08T08:34:45.235Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "student.h",
+              "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\final_traning_ses2\\final_traning_ses2\\student.h",
+              "RelativeDocumentMoniker": "final_traning_ses2\\student.h",
+              "ToolTip": "C:\\Users\\aboob\\source\\repos\\final_traning_ses2\\final_traning_ses2\\student.h",
+              "RelativeToolTip": "final_traning_ses2\\student.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-07T17:36:11.559Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "student.cpp",
+              "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\final_traning_ses2\\final_traning_ses2\\student.cpp",
+              "RelativeDocumentMoniker": "final_traning_ses2\\student.cpp",
+              "ToolTip": "C:\\Users\\aboob\\source\\repos\\final_traning_ses2\\final_traning_ses2\\student.cpp",
+              "RelativeToolTip": "final_traning_ses2\\student.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-07T17:36:00.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "equation.h",
+              "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\final_traning_ses2\\final_traning_ses2\\equation.h",
+              "RelativeDocumentMoniker": "final_traning_ses2\\equation.h",
+              "ToolTip": "C:\\Users\\aboob\\source\\repos\\final_traning_ses2\\final_traning_ses2\\equation.h",
+              "RelativeToolTip": "final_traning_ses2\\equation.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-07T17:10:28.34Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "equation.cpp",
+              "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\final_traning_ses2\\final_traning_ses2\\equation.cpp",
+              "RelativeDocumentMoniker": "final_traning_ses2\\equation.cpp",
+              "ToolTip": "C:\\Users\\aboob\\source\\repos\\final_traning_ses2\\final_traning_ses2\\equation.cpp",
+              "RelativeToolTip": "final_traning_ses2\\equation.cpp",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwB0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-07T17:10:20.499Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "rectangle.h",
+              "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\final_traning_ses2\\final_traning_ses2\\rectangle.h",
+              "RelativeDocumentMoniker": "final_traning_ses2\\rectangle.h",
+              "ToolTip": "C:\\Users\\aboob\\source\\repos\\final_traning_ses2\\final_traning_ses2\\rectangle.h",
+              "RelativeToolTip": "final_traning_ses2\\rectangle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-07T16:17:59.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "rectangle.cpp",
+              "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\final_traning_ses2\\final_traning_ses2\\rectangle.cpp",
+              "RelativeDocumentMoniker": "final_traning_ses2\\rectangle.cpp",
+              "ToolTip": "C:\\Users\\aboob\\source\\repos\\final_traning_ses2\\final_traning_ses2\\rectangle.cpp",
+              "RelativeToolTip": "final_traning_ses2\\rectangle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-07T16:17:47.405Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "get_array_mul .cpp",
+              "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\final_traning_ses2\\final_traning_ses2\\get_array_mul .cpp",
+              "RelativeDocumentMoniker": "final_traning_ses2\\get_array_mul .cpp",
+              "ToolTip": "C:\\Users\\aboob\\source\\repos\\final_traning_ses2\\final_traning_ses2\\get_array_mul .cpp",
+              "RelativeToolTip": "final_traning_ses2\\get_array_mul .cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-07T15:49:46.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "line.h",
+              "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\final_traning_ses2\\final_traning_ses2\\line.h",
+              "RelativeDocumentMoniker": "final_traning_ses2\\line.h",
+              "ToolTip": "C:\\Users\\aboob\\source\\repos\\final_traning_ses2\\final_traning_ses2\\line.h",
+              "RelativeToolTip": "final_traning_ses2\\line.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-07T15:24:31.188Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "line.cpp",
+              "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\final_traning_ses2\\final_traning_ses2\\line.cpp",
+              "RelativeDocumentMoniker": "final_traning_ses2\\line.cpp",
+              "ToolTip": "C:\\Users\\aboob\\source\\repos\\final_traning_ses2\\final_traning_ses2\\line.cpp",
+              "RelativeToolTip": "final_traning_ses2\\line.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-07T15:24:25.823Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "get_array_pow.cpp",
+              "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\final_traning_ses2\\final_traning_ses2\\get_array_pow.cpp",
+              "RelativeDocumentMoniker": "final_traning_ses2\\get_array_pow.cpp",
+              "ToolTip": "C:\\Users\\aboob\\source\\repos\\final_traning_ses2\\final_traning_ses2\\get_array_pow.cpp",
+              "RelativeToolTip": "final_traning_ses2\\get_array_pow.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-07T15:15:00.728Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "circle.h",
+              "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\final_traning_ses2\\final_traning_ses2\\circle.h",
+              "RelativeDocumentMoniker": "final_traning_ses2\\circle.h",
+              "ToolTip": "C:\\Users\\aboob\\source\\repos\\final_traning_ses2\\final_traning_ses2\\circle.h",
+              "RelativeToolTip": "final_traning_ses2\\circle.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-09-07T14:46:12.434Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "circle.cpp",
+              "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\final_traning_ses2\\final_traning_ses2\\circle.cpp",
+              "RelativeDocumentMoniker": "final_traning_ses2\\circle.cpp",
+              "ToolTip": "C:\\Users\\aboob\\source\\repos\\final_traning_ses2\\final_traning_ses2\\circle.cpp",
+              "RelativeToolTip": "final_traning_ses2\\circle.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-07T14:45:44.202Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\final_traning_ses2\\final_traning_ses2\\main.cpp",
+              "RelativeDocumentMoniker": "final_traning_ses2\\main.cpp",
+              "ToolTip": "C:\\Users\\aboob\\source\\repos\\final_traning_ses2\\final_traning_ses2\\main.cpp",
+              "RelativeToolTip": "final_traning_ses2\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-09-07T14:44:01.129Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
