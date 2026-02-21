@@ -1,0 +1,12 @@
+CELYE CHISLA
+5 2 8 1 9 3 7 4 6 0
+
+STRUCT PERSON
+Ivan 25
+Anna 30
+Peter 20
+Maria 35
+Alex 28
+Boris 22
+Elena 27
+Dmitry 33

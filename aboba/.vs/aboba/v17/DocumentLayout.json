@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aboob\\source\\repos\\aboba\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2C4D19E4-BD5E-4A0B-BC5D-0BD49C0FC16F}|aboba\\aboba.vcxproj|C:\\Users\\aboob\\source\\repos\\aboba\\aboba\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{2C4D19E4-BD5E-4A0B-BC5D-0BD49C0FC16F}|aboba\\aboba.vcxproj|solutionrelative:aboba\\main.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 215,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "main.cpp",
+              "DocumentMoniker": "C:\\Users\\aboob\\source\\repos\\aboba\\aboba\\main.cpp",
+              "RelativeDocumentMoniker": "aboba\\main.cpp",
+              "ToolTip": "C:\\Users\\aboob\\source\\repos\\aboba\\aboba\\main.cpp",
+              "RelativeToolTip": "aboba\\main.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-11-07T07:38:27.943Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

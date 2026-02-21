@@ -1,0 +1,6 @@
+digraph TSP {
+    0 -> 1 [label="10"];
+    1 -> 2 [label="20"];
+    2 -> 0 [label="15"];
+    label = "Minimum distance: 45";
+}

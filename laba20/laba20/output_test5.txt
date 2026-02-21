@@ -1,0 +1,17 @@
+Graph adjacency matrix:
+0 1 0 0 0 
+0 0 1 0 0 
+0 0 0 1 0 
+0 0 0 0 1 
+0 0 0 0 0 
+
+Root vertex: 0
+
+Paths from root to each reachable vertex (DFS):
+============================================
+Path to vertex 1: 0 -> 1
+Path to vertex 2: 0 -> 1 -> 2
+Path to vertex 3: 0 -> 1 -> 2 -> 3
+Path to vertex 4: 0 -> 1 -> 2 -> 3 -> 4
+
+Unreachable vertices from root 0: none

@@ -1,0 +1,15 @@
+Critical Vertices in the directed graph
+==========================================================
+A vertex is critical if removing it disconnects the graph
+or reduces reachability from any starting point
+==========================================================
+
+Critical vertices found: 5
+
+  Vertex 0 - removing it reduces reachability in the graph
+  Vertex 1 - removing it reduces reachability in the graph
+  Vertex 2 - removing it reduces reachability in the graph
+  Vertex 3 - removing it reduces reachability in the graph
+  Vertex 4 - removing it reduces reachability in the graph
+
+==========================================================

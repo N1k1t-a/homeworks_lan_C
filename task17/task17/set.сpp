@@ -1,0 +1,101 @@
+#include <algorithm> // std::move
+
+// ===== Правило трёх =====
+template <typename T>
+Set<T>::~Set() {
+    delete[] data;
+}
+
+template <typename T>
+Set<T>::Set(const Set& other) : sz(other.sz), cap(other.sz) {
+    if (cap) {
+        data = new T[cap];
+        for (size_t i = 0; i < sz; ++i) data[i] = other.data[i];
+    }
+}
+
+template <typename T>
+Set<T>& Set<T>::operator=(const Set& rhs) {
+    if (this == &rhs) return *this;
+    // copy-and-swap
+    Set tmp(rhs);
+    std::swap(data, tmp.data);
+    std::swap(sz,   tmp.sz);
+    std::swap(cap,  tmp.cap);
+    return *this;
+}
+
+// ===== Вспомогательные =====
+template <typename T>
+void Set<T>::en_cap(size_t need) {
+    if (need <= cap) return;
+    size_t newcap = cap ? cap * 2 : 1;
+    if (newcap < need) newcap = need;
+    T* nd = new T[newcap];
+    for (size_t i = 0; i < sz; ++i) nd[i] = std::move(data[i]);
+    delete[] data;
+    data = nd;
+    cap = newcap;
+}
+
+// нижняя граница: первая позиция, где !(a[i] < value) (т.е. a[i] >= value)
+template <typename T>
+size_t Set<T>::low_b(const T& value) const {
+    size_t l = 0, r = sz;
+    while (l < r) {
+        size_t m = (l + r) / 2;
+        if (data[m] < value) l = m + 1;
+        else r = m;
+    }
+    return l;
+}
+
+// ===== Публичный интерфейс =====
+template <typename T>
+void Set<T>::insert(const T& value) {
+    size_t pos = low_b(value);
+    // эквивалентность по строгому порядку: !(a<b) && !(b<a)
+    if (pos < sz && !(value < data[pos]) && !(data[pos] < value)) {
+        return; // уже есть — дубликаты игнорируем
+    }
+    en_cap(sz + 1);
+    for (size_t i = sz; i > pos; --i) data[i] = std::move(data[i - 1]);
+    data[pos] = value;
+    ++sz;
+}
+
+template <typename T>
+bool Set<T>::find(const T& value) const {
+    size_t pos = low_b(value);
+    return (pos < sz) && !(value < data[pos]) && !(data[pos] < value);
+}
+
+template <typename T>
+Set<T> Set<T>::intersect(const Set& s) const {
+    if (this->sz == 0 || s.sz == 0)
+        throw std::logic_error("intersection with empty set");
+
+    Set<T> out;
+    size_t i = 0, j = 0;
+    while (i < sz && j < s.sz) {
+        if (data[i] < s.data[j]) ++i;
+        else if (s.data[j] < data[i]) ++j;
+        else { // равны
+            out.insert(data[i]);
+            ++i; ++j;
+        }
+    }
+    return out;
+}
+
+// ===== Вывод =====
+template <typename U>
+std::ostream& operator<<(std::ostream& os, const Set<U>& s) {
+    os << '{';
+    for (size_t i = 0; i < s.sz; ++i) {
+        if (i) os << ", ";
+        os << s.data[i];
+    }
+    os << '}';
+    return os;
+}

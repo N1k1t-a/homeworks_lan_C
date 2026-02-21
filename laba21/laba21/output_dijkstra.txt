@@ -1,0 +1,9 @@
+=== REZULTATY ALGORITMA BELLMANA-FORDA ===
+Kratchajshie puti iz vershiny 0:
+
+Vershina 0: 0
+Vershina 1: 6
+Vershina 2: 4
+Vershina 3: 7
+Vershina 4: 2
+Vershina 5: nedostizhima

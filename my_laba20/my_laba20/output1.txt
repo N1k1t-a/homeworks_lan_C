@@ -1,0 +1,8 @@
+DFS Traversal starting from vertex 0
+===========================================
+Path to vertex 0: 0
+Path to vertex 1: 0 -> 1
+Path to vertex 3: 0 -> 1 -> 3
+Path to vertex 2: 0 -> 2
+===========================================
+DFS completed.

@@ -1,0 +1,12 @@
+Cycles in the directed graph
+==========================================================
+
+Cycles starting from vertex 3:
+  Cycle 1: 3 -> 4 -> 3 (back to start)
+
+Cycles starting from vertex 4:
+  Cycle 1: 4 -> 3 -> 4 (back to start)
+
+==========================================================
+Total cycles found: 2
+==========================================================

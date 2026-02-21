@@ -1,0 +1,4 @@
+INT height 1080
+INT width 1920
+STR name MyProgram
+STR path c:\labs

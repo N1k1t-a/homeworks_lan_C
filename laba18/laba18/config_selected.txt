@@ -1,0 +1,5 @@
+# SKIP missing key: color
+INT width 1920
+STR path c:\labs
+# SKIP missing key: author
+# SKIP missing key: nonexistent
